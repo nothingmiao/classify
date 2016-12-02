@@ -1,2 +1,12 @@
 # classify
 text classify
+
+postagger.py
+
+中文文本分词后保留词语词性信息，构成新词，例：学习_NN
+
+w2v训练带有词性信息的文本，得到词向量
+
+tfidf+上下文信息，得到文本词向量
+
+SVM分类
