@@ -13,4 +13,8 @@ SVM分类
 
 doc2vec_imdb.py：
 
-应用d2v，实现电影文本IMDB分类
+应用d2v
+
+keras搭建神经网络模型
+
+实现电影文本IMDB分类
